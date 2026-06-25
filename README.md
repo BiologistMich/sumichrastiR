@@ -25,5 +25,4 @@ if (!requireNamespace("devtools", quietly = TRUE)) {
 }
 
 # 1. Instalar la librería directamente desde GitHub
-# Asegúrate de usar el usuario o la organización correcta (ej: BiologistMich/aquila.peemR)
 devtools::install_github("BiologistMich/sumichrastiR
