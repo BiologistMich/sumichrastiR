@@ -1,6 +1,6 @@
 #  `sumichrastiR`: Automatización de procesos internos para el monitoreo de aves en proyecto eólico
 
-| ![Logo](https://github.com/BiologistMich/aquila.peemR/blob/main/inst/logo/aquila.peem_portada.png?raw=true) | Este paquete de R contiene un conjunto de funciones diseñadas para estandarizar, procesar y analizar datos generados por un programa de monitoreo biológico en un parque eólico. Su objetivo principal es automatizar procedimientos internos, desde el filtrado de datos crudos hasta el cálculo de índices clave (diversidad, mortalidad, etc.). |
+| ![Logo](https://github.com/BiologistMich/aquila.peemR/blob/main/inst/logo/sumichrastiR_portada.png?raw=true) | Este paquete de R contiene un conjunto de funciones diseñadas para estandarizar, procesar y analizar datos generados por un programa de monitoreo biológico en un parque eólico. Su objetivo principal es automatizar procedimientos internos, desde el filtrado de datos crudos hasta el cálculo de índices clave (diversidad, mortalidad, etc.). |
 | :---: | :--- |
 ---
 
